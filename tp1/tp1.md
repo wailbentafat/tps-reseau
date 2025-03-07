@@ -39,11 +39,11 @@
    
 
 5. Ping
-     ![test]( test4.jpg)
+
+    ![test]( test4.jpg)
     ![test1]( test3.jpg)
     ![twst2]( test2.jpg)
     ![test3]( test1.jpg)
-   
     
 
    
